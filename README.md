@@ -17,3 +17,7 @@ proxy.exe lightneuron 8888
 ```
 
 Spawning this with a stealthier approach is an exercise left up to you.
+
+## license
+
+`beacon-pipe-frame-proxy` is licensed under a [GNU General Public v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). Permissions beyond the scope of this license may be available at [http://sensepost.com/contact/](http://sensepost.com/contact/).
